@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "CalmMove",
+    "slug": "calm-move",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.calmove.workout",
+      "permissions": ["POST_NOTIFICATIONS", "SCHEDULE_EXACT_ALARM"],
+      "adaptiveIcon": {"backgroundColor": "#EAF5EF"}
+    },
+    "plugins": [["expo-notifications", {"color":"#588B71"}]]
+  }
+}
