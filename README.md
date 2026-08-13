@@ -31,3 +31,12 @@ Notifications are scheduled locally and profile/history data stays on the device
 - Future workout details remain hidden until their scheduled time.
 - Full-screen workout presentation with a larger video.
 - Vertically snapping, animated History cards with dates in chronological order.
+
+## Version 1.2 improvements
+
+- Re-centred progress percentage and weekly chart with gradient depth and shadows.
+- Animated gym profile button with editable profile and workout preferences.
+- Log out option that returns to onboarding.
+- One-time 10:00 p.m. and 11:59 p.m. schedule for locked-future-workout testing.
+- Softer History scrolling and page transitions.
+- Circular animated highlighting for the active bottom navigation tab.
